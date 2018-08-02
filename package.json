@@ -1,0 +1,15 @@
+{
+  "name": "smsru-promise",
+  "version": "0.0.1",
+  "description": "package for sms.ru api with promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantine T",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
